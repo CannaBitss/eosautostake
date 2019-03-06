@@ -1,0 +1,18 @@
+{
+  "name": "eosautostakeclaim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eosjs": "^16.0.9",
+    "eosjs-api": "^7.0.4",
+    "moment": "^2.24.0",
+    "node-schedule": "^1.3.2"
+  }
+}
